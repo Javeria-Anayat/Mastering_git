@@ -1,0 +1,12 @@
+    1  git config --global user.name "Javeria-Anayat"
+    2  git config --global user.email "javeriaanayat047@gmail.com"
+    3  pwd
+    4  git init
+    5  git status
+    6  git add readme.md
+    7  git commit -m "Add readme.md file"
+    8  git status
+    9  git add .
+   10  git commit -m  "Add hello and test files"
+   11  git log
+   12  history > commands.txt
