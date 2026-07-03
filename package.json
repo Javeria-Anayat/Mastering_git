@@ -1,0 +1,22 @@
+{
+  "name": "devops-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "run": "node hello.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javeria-Anayat/Mastering_git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Javeria-Anayat/Mastering_git/issues"
+  },
+  "homepage": "https://github.com/Javeria-Anayat/Mastering_git#readme"
+}
